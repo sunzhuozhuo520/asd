@@ -1,4 +1,4 @@
-包 COM白枝实体。 ;
+package com.baizhi.entity;
 //修改过后的
 
 public class user {
